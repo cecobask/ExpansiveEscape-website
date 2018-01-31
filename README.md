@@ -1,6 +1,6 @@
 # Expansive Escape Website
 
-This website was designed by Tsvetoslav Dimov for the module User Experience Design.
+This website was designed and developed by Tsvetoslav Dimov as an assignment for the module User Experience Design.
 
 ## Getting Started
 
